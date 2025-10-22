@@ -1,2 +1,5 @@
 zmień nazwe na HealingX64
-<img width="519" height="209" alt="image" src="https://github.com/user-attachments/assets/6769ea30-564a-41ff-a4dd-af5c85ce4eed" />
+<img width="560" height="233" alt="image" src="https://github.com/user-attachments/assets/e18905cd-58b0-42bc-8a90-6550a09914ca" />
+
+
+te sloty z f5 dzialaja tylko jak mamy target , slot z space to targeting (klika klawisz ktory zaznacza moba jak nie mam targetu ) , reszta czyli pierwsze 3 sloty spamia co xxx
