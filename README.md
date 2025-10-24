@@ -1,3 +1,9 @@
+updated 24.10.2025  11:12
+
+
+
+
+
 zmień nazwe na HealingX64
 <img width="560" height="233" alt="image" src="https://github.com/user-attachments/assets/e18905cd-58b0-42bc-8a90-6550a09914ca" />
 
